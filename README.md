@@ -1,5 +1,6 @@
 # baekjoon-solutions
 c++ solution for baekjoon (following solved.ac class)
+백준 c++ 솔루션입니다. (solved.ac CLASS 를 따라갑니다.)
 
 # Baekjoon Online Judge Solutions in C++
 
