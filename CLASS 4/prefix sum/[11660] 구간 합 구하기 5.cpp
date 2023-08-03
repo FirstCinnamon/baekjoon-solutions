@@ -5,6 +5,9 @@
 using namespace std;
 
 int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
     int N, M;
     cin >> N >> M;  // 표의 크기 N과 합을 구해야 하는 횟수 M
 
