@@ -5,7 +5,7 @@
 using namespace std;
 
 int main() {
-    ios_base::sync_with_stdio(false); // 입출력 속도 향상을 위한 설정
+    ios_base::sync_with_stdio(false);
     cin.tie(nullptr);
     cout.tie(nullptr);
 
