@@ -3,7 +3,8 @@
 #include <vector>
 #include <queue>
 
-#define MAX 100001 // 최대 범위 정의
+// 순간이동시 최대 두배까지 이동할 수 있으므로 100000 * 2 + 1 (인덱스를 1부터 사용하므로 +1 해줌) 인 200001을 최댓값으로 설정
+#define MAX 200001 
 
 using namespace std;
 using pii = pair<int, int>;
